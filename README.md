@@ -1,6 +1,7 @@
-# Led-Outdoor-Activities-as-a-Sociotechnical-System
+# Research Paper
 
-## Research Paper
-
+## 1. Led-Outdoor-Activities-as-a-Sociotechnical-System
 
  Popularity of Led Outdoor Activities (LOA) has increased significantly in the last couple of years. Although, more number of people were reported to engage themselves in LOA recently, the concept of LOA is not brand new. Led outdoor activity or LOA is defined as facilitated or instructed outdoor education and recreational settings (Salmon et al.2010) and includes activities such as hiking, kayaking, treks, rafting, canoeing, roped activities, snow sports etc. There are infinite number of groups all over the world who formally involve in organising such activities for people who desire to experience the thrill. Not only this, many schools and public communities un programs such as Scouts as a part of their curriculum. The extent of acceptance of this concept, even though not completely safe, is evident by the fact that government provides official license for conducting these activities. While these activities help the participants to experience the adventure, the increasing number of accidents has pushed it to become a topic of discussion among the researchers. Realizing the consequences, they have argued that led outdoor activities must be considered as a genuine sociotechnical system. No doubt, the teams conducting such activities are well trained and professional, but it is not desirable to assume that accidents will not occur. Ignorance and lack of awareness may prove hazardous. This paper aims to realize LOA as a potential Sociotechnical system and highlight the failures of this system. Understanding the system and various actors involved will further help to comprehend what/who is responsible for the malfunctioning and how risk mitigation strategies must be employed.
+
+## 2. 
